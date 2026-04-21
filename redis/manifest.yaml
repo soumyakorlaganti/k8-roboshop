@@ -46,4 +46,4 @@ spec:
   ports:
   - protocol: TCP
     port: 6379 # service port
-    targetPort: 6379 # container port
+    targetPort: 6379 # container port .
